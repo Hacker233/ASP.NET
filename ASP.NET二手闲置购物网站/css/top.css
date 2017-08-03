@@ -1,0 +1,257 @@
+﻿body {
+    padding:0;
+    margin:0;
+    background-position: 0px 0px; 
+    background: url('../images/content.jpg');
+    background-repeat: repeat; 
+    background-attachment: scroll;
+}
+.top {
+    background-color:#6c6669;
+    width:1363px;
+    height:50px;
+    text-align:center;
+    position:fixed;
+    z-index:99;
+}
+.top_title {
+    width:500px;
+    height:50px;
+    font-size:x-large;
+    line-height:50px;
+    font-family:"微软雅黑";
+    font-style:oblique;
+    color:white;
+    float:left;
+}
+.top_right {
+    width:800px;
+    height:50px;
+    float:right;
+    position:absolute;
+}
+#Button1 ,#Button2{
+    font-family:"微软雅黑";
+    width:80px;
+    height:30px;
+    background-image:url('../images/buy.jpg');
+    border-radius:90%;
+    float:right;
+}
+.top_button {
+    width:170px;
+    height:35px;
+    line-height:50px;
+    position:relative;
+    top:10px;
+    float:right;
+    left:700px;
+}
+.content {
+    width:1100px;
+    height:1300px;
+    background-color:#00ffff;
+    margin-left:auto;
+    margin-right:auto;
+    background-image:url(../images/content.jpg);
+}
+.show_content {
+    width:800px;
+    height:1100px;
+    background-image:url('../images/content.jpg');
+    margin-left:40px;
+    position:relative;
+    top:20px;
+}
+.show_things {
+    width:280px;
+    height:290px;
+
+    margin-left:75px;
+    position:relative;
+    top:50px;
+    float:left;
+}
+.show_things_2 {
+    width:280px;
+    height:290px;
+
+    float:left;
+    position:relative ;
+    top:50px;
+    margin-left:75px;
+    margin-top:50px;
+}
+.show_things_3 {
+    width:280px;
+    height:290px;
+
+    float:left;
+    position:relative ;
+    top:50px;
+    margin-left:75px;
+    margin-top:50px;
+}
+.jpg {
+    width:280px;
+    height:250px;
+    border-style:outset;
+}
+    .jpg:hover{
+        width:300px;
+        height:270px;
+    }
+.buy {
+    width:280px;
+    height:45px;
+
+    line-height:45px;
+}
+.btn_buy {
+    width :150px;
+    height:45px;
+    float:right;
+}
+.btn_shopping {
+    background-image:url('../images/buy.jpg');
+}
+.buttom {
+    width:1363px;
+    height:230px;
+    background-color:#78b7d7;
+}
+.buttom_li {
+    line-height:230px;
+    list-style:none;
+    float:left;
+    padding-right:50px;
+
+}
+.dowm {
+    width:1300px;
+    height:230px;
+    position:relative;
+    left:260px;
+}
+a {
+    text-decoration:none;
+}
+
+.wrap {
+    width:250px;
+    float:right;
+    position:relative;
+    top:-1036px;
+    bottom:1010px;
+    margin-right:10px;
+}
+.content_ul {
+    padding:15PX 0;
+    margin:9PX;
+    list-style:none ;
+    background:#6c6669;
+    color:#ffffff;
+    border-right-width:0;
+}
+.content_li {
+    display:block;
+    height:40px;
+    line-height:30px;
+    padding-left:70px;
+    cursor:pointer;
+    font-size:20px;
+    position:relative;
+    margin-top:20px;
+}
+    .content_li.active {
+        background:#999395;
+    }
+    .content_li span:hover {
+        color:#c81623;
+    }
+
+#Button15 ,#Button16{
+    font-family:"微软雅黑";
+    width:80px;
+    height:30px;
+    background-color:white;
+    border-radius:90%;
+    float:right;
+}
+.search {
+    width:1363px;
+    height:150px;
+    padding-left:165px;
+   background-image:url('../images/search.jpg');
+}
+.search_content {
+    width:1020px;
+    height:147px;
+}
+.search_content_1 {
+    width:1000px;
+    height:146px;
+ 
+    line-height:200px;
+}
+#TextBox1 {
+    width:700px;
+    height:40px;
+}
+#Button17 {
+    width:110px;
+    height:40px;
+    margin-left:20px;
+    background-color:#ffa0a0;
+    font-size:17px;
+    color:white;
+}
+#Label_search {
+    font-size:20px;
+    font-family:"微软雅黑";
+    margin-left:10px;
+    margin-right:20px;
+    color:white;
+}
+.goods_lable {
+    color:#8a76dd;
+    cursor: pointer;
+}
+.ad1 {
+    height:100px;
+    width:1363px;
+    position:relative;
+    top:0;
+    text-align:center;
+   background-image:url('../images/body.jpg');
+}
+.ad_jpg {
+    height:100px;
+    margin-left:0px;
+}
+.ad_image_right {
+    width:230px;
+    height:400px;
+    position:relative;
+    left:850px;
+    top:-400px;
+}
+    .body8:hover {
+        width:240px;
+        height:410px;
+        cursor: pointer;
+    }
+.ad_title1 {
+    font-size:40px;
+    line-height:100px;
+    font-style:italic;
+    color:#174363;
+    font-weight:900;
+}
+    .ad_title1:hover {
+        cursor: pointer;
+    }
+.ad1:hover {
+    height:110px;
+    cursor: pointer;
+}

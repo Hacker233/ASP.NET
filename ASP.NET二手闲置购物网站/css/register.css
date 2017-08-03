@@ -1,0 +1,62 @@
+﻿body {
+    margin:0;
+    padding:0;
+    background-image:url('../images/body.jpg');
+}
+.login {
+    width:500px;
+    height:500px;
+    position:relative;
+    top:50px;
+    left:750px;
+    background-image:url('http://localhost:4249/images/buy.jpg');
+}
+.login_content {
+    width:400px;
+    height:400px;
+    background-color:white;
+    position:relative;
+    top:40px;
+    left:40px;
+    text-align :center;
+    line-height:60px;
+    padding-bottom:10px;
+    padding-left:20px;
+    padding-top:15px;
+    border:outset;
+   background-image:url('http://localhost:4249/images/buy.jpg');
+}
+.login_cu {
+    width:370px;
+    height:300px;
+    text-align:center;
+    margin-top:70px;
+}
+
+#Button1,#Button2 {
+    width:70px;
+    height:30px;
+    background-color:white;
+    border-color:#0094ff;
+}
+.top_title {
+    width:1363px;
+    height:50px;
+    font-size:x-large;
+    line-height:50px;
+    font-family:"微软雅黑";
+    font-style:oblique;
+    color:white;
+    background-color:#6c6669;
+}
+.ad_left {
+    height:500px;
+    width:600px;
+    position:relative;
+    top:50px;
+    left:100px;
+}
+.image_ad {
+    height:500px;
+    width:600px;
+}

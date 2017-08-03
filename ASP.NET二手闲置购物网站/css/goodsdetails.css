@@ -1,0 +1,84 @@
+﻿body {
+    margin:0;
+    padding:0;
+    background-image:url('../images/buy.jpg');
+}
+
+.top_title {
+    width:1363px;
+    height:50px;
+    font-size:x-large;
+    line-height:50px;
+    font-family:"微软雅黑";
+    font-style:oblique;
+    color:white;
+    float:left;
+    background-color:#6c6669;
+}
+.griview_title {
+    width:1150px;
+    height:60px;
+    background-image:url(../images/buy.jpg);
+}
+.goods_title {
+    line-height:60px;
+    color:white;
+    background-image:url('../images/buy.jpg');
+}
+.goodsgridview {
+    width:1150px;
+    height:670px;
+    position:relative;
+    left:100px;
+    top:50px;
+    text-align:center;
+    background-image:url('../images/buy.jpg');
+}
+.gridview_top {
+    width:800px;
+    height:300px;
+    position:relative;
+    left:180px;
+    background-image:url('../images/buy.jpg');
+}
+.top {
+    width:1363px;
+    height:50px;
+    text-align:center;
+    position:fixed;
+    z-index:99;
+    margin-top:-20px;
+}
+.top_title {
+    width:1363px;
+    height:50px;
+    font-size:x-large;
+    line-height:50px;
+    font-family:"微软雅黑";
+    font-style:oblique;
+    color:white;
+    float:left;
+}
+.top_right {
+    width:600px;
+    height:50px;
+    float:right;
+    position:absolute;
+}
+#Button2{
+    font-family:"微软雅黑";
+    width:80px;
+    height:30px;
+    background-color:white;
+    border-radius:90%;
+    float:right;
+}
+.top_button {
+    width:170px;
+    height:35px;
+    line-height:50px;
+    position:relative;
+    top:10px;
+    float:right;
+    left:700px;
+}

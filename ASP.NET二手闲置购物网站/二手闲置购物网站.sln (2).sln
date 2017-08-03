@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "二手闲置购物网站(1)", "http://localhost:4249", "{00837303-DDC9-454E-852F-15638925EAE4}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_4249"
+		Debug.AspNetCompiler.PhysicalPath = "E:\商务网站课程设计\二手闲置购物网站\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_4249\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_4249"
+		Release.AspNetCompiler.PhysicalPath = "E:\商务网站课程设计\二手闲置购物网站\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_4249\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "E:\商务网站课程设计\二手闲置购物网站\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00837303-DDC9-454E-852F-15638925EAE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00837303-DDC9-454E-852F-15638925EAE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

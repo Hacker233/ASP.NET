@@ -1,0 +1,53 @@
+﻿body {
+    margin:0;
+    padding:0;
+   background-image:url('../images/body.jpg')
+}
+.login {
+    width:500px;
+    height:500px;
+    position:relative;
+    left:600px;
+    top:30px;
+}
+.login_content {
+    width:400px;
+    height:400px;
+   background-image:url('http://localhost:4249/images/buy.jpg');
+    position:relative;
+    top:40px;
+    left:40px;
+    text-align :center;
+    line-height:60px;
+    padding-bottom:10px;
+    padding-left:20px;
+    padding-top:15px;
+ 
+}
+.login_cu {
+    width:370px;
+    height:300px;
+    text-align:center;
+    margin-top:70px;
+    background-image:url('http://localhost:4249/images/buy.jpg');
+       border:outset;
+       position:relative;
+       top:-20px;
+}
+
+.login_btn {
+    width:70px;
+    height:30px;
+    background-color:white;
+    border-color:#0094ff;
+}
+.top_title {
+    width:1363px;
+    height:50px;
+    font-size:x-large;
+    line-height:50px;
+    font-family:"微软雅黑";
+    color:white;
+    background-color:#6c6669;
+    text-align:center;
+}
